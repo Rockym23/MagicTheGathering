@@ -1,0 +1,5 @@
+Para ejecutar
+node server.js
+
+Para ejecutar nodemon.
+npx nodemon server.js
